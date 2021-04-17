@@ -1,3 +1,6 @@
-# laure-script
+#!/bin/bash
+#Author: Laure Kpan
 
-this repository is to store bash shell scripts
+if [$? -eq 0]
+then 
+
